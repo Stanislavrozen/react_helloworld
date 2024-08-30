@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.App {
+    width: 800px;
+}
+
+.post-item {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border: 2px solid teal;
+}
+
+.post-list {
+    margin: 15px
+}
+
+.post-form {
+    
+}
